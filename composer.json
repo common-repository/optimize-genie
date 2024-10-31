@@ -1,0 +1,14 @@
+{
+    "name": "futrx/optimize-genie",
+    "description": "Optimize Genie by FutrX, is a plugin that helps you optimize and manipulate images hosted on your WordPress.",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "FutrX"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "intervention/image": "^3.0@alpha"
+    }
+}
